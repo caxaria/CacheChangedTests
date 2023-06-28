@@ -1,4 +1,5 @@
 //new cache contents
+//revision 1
 
 function a() {
   console.log("asd" + 'dsa');
@@ -16,6 +17,8 @@ var cemas = '123asd';
 a();
 
 b();
+
+if(true) c();
 
 var outrascenas = '123asd' + "321";
 var as= "321";
