@@ -18,7 +18,7 @@ a();
 
 b();
 
-if(true) c();
+if(true) d();
 
 var outrascenas = '123asd' + "321";
 var as= "321";
