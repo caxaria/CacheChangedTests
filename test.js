@@ -18,6 +18,8 @@ a();
 
 b();
 
+// new test in PR
+
 if(true) d();
 
 var outrascenas = '123asd' + "321";
